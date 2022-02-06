@@ -1,0 +1,8 @@
+D:\programs\tic\tic\bin\Debug\tic.exe.config
+D:\programs\tic\tic\bin\Debug\tic.exe
+D:\programs\tic\tic\bin\Debug\tic.pdb
+D:\programs\tic\tic\obj\Debug\tic.csproj.AssemblyReference.cache
+D:\programs\tic\tic\obj\Debug\tic.csproj.SuggestedBindingRedirects.cache
+D:\programs\tic\tic\obj\Debug\tic.csproj.CoreCompileInputs.cache
+D:\programs\tic\tic\obj\Debug\tic.exe
+D:\programs\tic\tic\obj\Debug\tic.pdb
